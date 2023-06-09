@@ -26,8 +26,7 @@
 
 > <a href="https://ekaterinatestqa.atlassian.net/l/cp/Czm6ddmv">Ссылка на проект.</a>
   
-> <p> логин от atlassian:  </p>
-> <p> пароль:  </p>
+
  
  <p>Выводы (итоги):<p>
 <ol>

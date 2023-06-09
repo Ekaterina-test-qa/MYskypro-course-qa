@@ -26,8 +26,8 @@
 
 > <a href="https://ekaterinatestqa.atlassian.net/l/cp/Czm6ddmv">Ссылка на проект.</a>
   
-> <p> логин от atlassian: kitkaaats@gmail.com </p>
-> <p> пароль: 123456789SSSK8 </p>
+> <p> логин от atlassian:  </p>
+> <p> пароль:  </p>
  
  <p>Выводы (итоги):<p>
 <ol>

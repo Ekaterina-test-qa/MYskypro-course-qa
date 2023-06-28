@@ -22,6 +22,7 @@
 <ol>
   <li>Задача№1(курсовая1): тест план, тестирование требований, чек-лист(функциональный, регрессионный), тест-кейсы, тестирование нового функционала(вкладка личные события), отчет о проделаннном тестировании.</li>
   <p>Ссылка на функциональный чек-лист: https://docs.google.com/spreadsheets/d/1Lbn4qLEcUSzoVWh2zcinTMXaJdezOkV7i9u6NvXlUOc/edit#gid=0 <p>
+  <p>Ссылка на тест-кейсы: https://drive.google.com/drive/u/0/folders/1Bbc6S5Xc8zvdtSxwq5eJLWwVUpUfF5N6 <p>
    
   <li>Задача №2(курсовая2):Тестирование REST API:</li>
   <p></p>

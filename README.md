@@ -23,8 +23,7 @@
 <p>
 <li> Приемочные тест-кейсы;</li>
 <li> Smoke тест-кейсы;</li>
-<li> Функциональный чек-лист </li>
-Cсылка на функциональный чек-лист: https://docs.google.com/spreadsheets/d/1Lbn4qLEcUSzoVWh2zcinTMXaJdezOkV7i9u6NvXlUOc/edit#gid=0 ;
+<li><a href="https://docs.google.com/spreadsheets/d/1Lbn4qLEcUSzoVWh2zcinTMXaJdezOkV7i9u6NvXlUOc/edit#gid=0"> Функциональный чек-лист</a> ; </li>
 <li> Верхнеуровневый чек-лист  «Регресс в итоговом проекте» </li>
 <li> Тест-кейсы (тестирование API) </li>
 <p></p>
@@ -42,9 +41,12 @@ Cсылка на функциональный чек-лист: https://docs.goog
 <li> Приемочное тестирование;</li>
 <li> Регрессионное тестирование;</li>
 <li> Тестирование API.</li>
-<a> Ссылка на проект: https://ekaterinatestqa.atlassian.net/l/cp/fZfeLcTE </a>
-<p>Выводы (итоги):
-<p>
+<p></p>
+<p> Была проведена <a href="https://miro.com/app/board/uXjVPzyOTHM=/?share_link_id=77494374643"> декомпозиция проекта</a>. </p>
+<a> Ссылка на <a href="https://ekaterinatestqa.atlassian.net/l/cp/fZfeLcTE "> проект </a> </a>
+<p><p>
+<p>Выводы (итоги):<p>
+
 <li>Итог №1 Отчет о проведенном тестировании https://ekaterinatestqa.atlassian.net/wiki/spaces/~63761e2c5fc160544e17fa50/pages/5308417 </li>
 <li>Итог №2 Требуется фиксация бага с critical severity до реализации продукта, а также не работает функционал "отмены" урока.</li>
 <li>Работала с продуктом на разных этапах</li>
